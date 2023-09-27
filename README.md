@@ -21,7 +21,8 @@ Several regularization techniques are employed and compared in this project:
 
 # Impact of Regularization Methods on Model Performance
 In this project, I have applied various regularization techniques to our Convolutional Neural Network (CNN) model and observed their impacts on model performance. Here's a summary of our findings:  
-** Without Regularization **
+
+**Without Regularization**
 Accuracy: 90.16%
 Loss: 31.64
 Without any regularization, our model achieved a respectable accuracy of 90.16%. However, the loss value indicates that the model might be overfitting to the training data.
